@@ -1,3 +1,5 @@
+# THIS REPO IS DEPRECATED, PLEASE USE [IOS-GUIDELINES](https://github.com/badoo/ios-guidelines)
+
 # The Swift Style Guide used by Badoo
 
 This Swift Style Guide is based on https://github.com/raywenderlich/swift-style-guide with some changes agreed inside Badoo iOS team.
